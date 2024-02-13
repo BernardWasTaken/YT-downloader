@@ -1,0 +1,33 @@
+body {
+    min-width: 400px;
+    background-color: rgba(69, 69, 69, 1);
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+input {
+    min-width: 99%;
+    background-color: rgba(69, 69, 69, 1);
+    color: whitesmoke;
+    margin-bottom: 20px;
+}
+
+button {
+    background-color: rgba(69, 69, 69, 1);
+    color: whitesmoke;
+}
+
+.test {
+    color: aqua;
+}
+
+.error-false{
+    color: rgba(0,0,0,0);
+}
+
+.error-true{
+    color: rgba(255, 0, 0, 1);
+}
