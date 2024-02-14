@@ -24,10 +24,18 @@ button {
     color: aqua;
 }
 
-.error-false{
+.hidden{
     color: rgba(0,0,0,0);
 }
 
-.error-true{
+.red{
     color: rgba(255, 0, 0, 1);
+}
+
+.green{
+    color: rgba(0, 255, 0, 1);
+}
+
+.white{
+    color: white;
 }
